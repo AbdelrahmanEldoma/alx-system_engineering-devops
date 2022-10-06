@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -acpvl --format=commas -m --group-directories-first
+ls -acpvl -R --format=commas -m --group-directories-first
