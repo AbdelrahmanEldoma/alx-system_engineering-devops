@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lacpva --format=commas --group-directories-first --color -h
+ls -racpva --format=commas --group-directories-first --color -h
